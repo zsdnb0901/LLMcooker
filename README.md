@@ -1,5 +1,5 @@
 # LLMcooker
-If you don't know what you want to eat. Upload an image for all foods (vegetables, meats, fruits) you have. The LLM will find you a way out. 
+If you don't know what you want to eat. Upload an image for all foods (vegetables, meats, fruits) you have. The LLM will find you a way out. This application includes an interface and a local/offline LLM. 
 
 # How to apply
 1. load a local LLM model.    [Load-local-LLMs](https://github.com/zsdnb0901/Load-local-LLMs)
