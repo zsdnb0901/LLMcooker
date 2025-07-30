@@ -2,7 +2,7 @@
 If you don't know what you want to eat. Upload an image for all foods (vegetables, meats, fruits) you have. The LLM will find you a way out. 
 
 # How to apply
-1. load a local LLM model.
+1. load a local LLM model.    [Load-local-LLMs](https://github.com/zsdnb0901/Load-local-LLMs)
 2. run main.py
 3. upload an image of all foods
 4. click "analyze"
