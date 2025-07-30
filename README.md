@@ -19,4 +19,4 @@ Processor: AMD Ryzen 7 5700X 8-Core Processor, 3800Mhz, 16GB RAM
 
 GPU: NVIDIA GeForce RTX 3060 Ti
 
-The local LLM this code uses is qwen2.5. Downloaded from Ollama. 
+The local LLM this code is qwen2.5. Downloaded from Ollama. 
