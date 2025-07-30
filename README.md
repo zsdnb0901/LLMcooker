@@ -3,7 +3,7 @@ If you don't know what you want to eat. Upload an image for all foods (vegetable
 
 # How to apply
 1. load a local LLM model.    [Load-local-LLMs](https://github.com/zsdnb0901/Load-local-LLMs)
-2. run main.py
+2. install requirements.txt then run main.py
 3. upload an image of all foods
 4. click "analyze"
 5. click "recommand"
